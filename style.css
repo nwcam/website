@@ -1,0 +1,96 @@
+body{
+  background-color: navajowhite;
+}
+
+h1{
+  font-family: 'Lato', sans-serif;
+}
+
+h3{
+  font-family: 'Lato', sans-serif;
+}
+
+p {
+  font-family: 'Lato', sans-serif;
+}
+
+.Cami-Peterson {
+  text-align: center;
+  text-decoration: underline;
+}
+
+.boots{
+  text-align: center;
+}
+
+.boots img {
+  border: 5px solid black;
+  margin: 15px;
+  padding: 15px;
+  width: 20%;
+}
+
+.bio-content {
+  text-align: center;
+  margin: 50px;
+  
+}
+
+.links {
+  list-style-type: none;
+  width: 200px;
+}
+
+.scores{
+  list-style-type: none;
+  width: 200px;
+}
+
+.linkies {
+  float: left;
+}
+
+.linkys {
+  float: left;
+}
+
+.clear {
+  clear: both;
+}
+
+.SC {
+  list-style-type: none;
+  width: 200px;
+}
+
+.makeup-content {
+  width: 500px;
+}
+
+.makeup-pics {
+  border: 5px solid black;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 2;
+}
+
+.cards-content {
+  width: 500px;
+}
+
+.card-images {
+  border: 5px solid black;
+  text-align: center;
+  padding: 5px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  flex-grow: 2;
+}
